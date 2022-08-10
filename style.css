@@ -1,0 +1,40 @@
+h3 {
+    color: palevioletred;
+}
+
+body {
+    background-color: pink;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+} /* dis move the title and paragraph content in html to the center next to eachother in the browser */
+
+
+.card {
+    background: rgba(148, 50, 204, 0.301);
+    width: 230px;
+    height: 430px;
+    margin: 15px;
+}
+
+.card-pic {
+    background-color:bisque;
+    height: 180px;
+    margin-bottom: 10px;
+    background-size: cover;
+}
+
+.flamingo1 {
+    background-image: url("https://paintbynumberscanvas.com/wp-content/uploads/2020/10/flamingo-on-the-beach-paint-by-number.jpg");
+}
+
+.flamingo2 {
+    background-image: url("https://stayclosetravelfar.com/wp-content/uploads/2018/07/aruba-pink-flamingo-beach.jpg");
+}
+
+.flamingo3 {
+    background-image: url("https://www.kidsplayandcreate.com/wp-content/uploads/2022/02/Untitled-design-61-630x350.jpg");
+}
+
