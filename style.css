@@ -15,12 +15,11 @@ body {
 .card {
     background: rgba(148, 50, 204, 0.301);
     width: 230px;
-    height: 430px;
+    height: 470px;
     margin: 15px;
 }
 
 .card-pic {
-    background-color:bisque;
     height: 180px;
     margin-bottom: 10px;
     background-size: cover;
